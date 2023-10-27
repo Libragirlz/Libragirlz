@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Libragirlz
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning coding challenges
-- 💞️ I’m looking to collaborate on codind
-- 📫 How to reach me ...
-
-<!---
-Libragirlz/Libragirlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Katlego Patience Mhlongo am a Libra looking to empower young minds to join the cyber world as we dive into the 5th industrial revolution .
+Technology is very important in the morden world as it is the main use in our world weather to communicate/work or socialize, therefore I am employing young minds to dive in the midstof learning how to utilize it in a way that will them in the world of work .
